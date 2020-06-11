@@ -21,7 +21,8 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'wp1' );
-
+//username:web1
+//pass:ABCD123#$@13427gdfa
 /** MySQL database username */
 define( 'DB_USER', 'root' );
 
